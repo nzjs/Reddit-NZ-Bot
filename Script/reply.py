@@ -12,7 +12,7 @@ APP_SCOPES = "account creddits edit flair history identity livemanage modconfig 
 APP_ACCOUNT_CODE = ""
 APP_REFRESH = ""
 # https://www.reddit.com/comments/3cm1p8/how_to_make_your_bot_use_oauth2/
-USERAGENT = "Python automatic reply v0.1 (by /u/xmpp) - travel info for New Zealand"
+USERAGENT = "Python automatic reply v0.1 - travel info for New Zealand"
 
 NZSUBREDDIT = "newzealand" #"newzealand"
 SUBREDDIT = "earthporn+worldnews+nzphotos+selftravel+backpacking+pics+environment+iwantout" #"earthporn+travel+worldnews+nzphotos"
